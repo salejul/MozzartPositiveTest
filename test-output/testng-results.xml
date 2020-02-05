@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90603" started-at="2020-02-05T13:34:56 CET" finished-at="2020-02-05T13:36:27 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90603" started-at="2020-02-05T13:34:56 CET" finished-at="2020-02-05T13:36:27 CET">
+      <class name="pages.MozzartPositiveTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.MozzartPositiveTest@5f282abb]" name="setUp" is-config="true" duration-ms="40792" started-at="2020-02-05T13:34:56 CET" finished-at="2020-02-05T13:35:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="positiveTest()[pri:0, instance:pages.MozzartPositiveTest@5f282abb]" name="positiveTest" duration-ms="49075" started-at="2020-02-05T13:35:37 CET" finished-at="2020-02-05T13:36:26 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.MozzartPositiveTest@5f282abb]" name="tearDown" is-config="true" duration-ms="611" started-at="2020-02-05T13:36:26 CET" finished-at="2020-02-05T13:36:27 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.MozzartPositiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
