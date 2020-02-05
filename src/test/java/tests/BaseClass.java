@@ -25,7 +25,7 @@ public class BaseClass {
 		caps.setCapability("deviceName", "HUAWEI P9 lite 2017");
 		caps.setCapability("udid", "9DC7N17711004538");
 		caps.setCapability("platformName", "Android");
-		caps.setCapability("app", "E:\\Appium\\Mozzart-beta.apk");
+		caps.setCapability("app", "https://static.mozzartbet.com/android/sr/beta/Mozzart-beta.apk");
 		caps.setCapability("platformVersion", "8.0.0");
 		caps.setCapability("appWaitPackage", "com.mozzartbet.beta");
 		caps.setCapability("appWaitActivity", "com.mozzartbet.ui.acivities.HomeScreenActivity");
